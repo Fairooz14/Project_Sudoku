@@ -1,7 +1,7 @@
 # Project_Sudoku
-This a simple Sudoku game project using pygame module of Python.
+This a simple Sudoku game project using Pygame module of Python.
 
-![Field_git](https://github.com/Fairooz14/Project_Sudoku/assets/102751153/32c2baba-146a-4114-b648-49d2083f1cc0)
+![Banner](https://github.com/Fairooz14/Project_Sudoku/assets/102751153/1bceb104-e10d-4713-bf95-29828ea43b34)
 
 # Rules of the game 
 - Every single square has 9 possibilities. 9x9 = 81 squares with 9 possibilities. The different possible combination of the solution is 9^81.
