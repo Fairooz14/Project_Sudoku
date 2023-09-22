@@ -20,9 +20,11 @@ Backtracking:
 There are some limitations to this project. As it is only One Sudoku game, it has some instructed limitations.
 
 - The Filled numbers of the game can be changed. If it changes by the player then the solution will not generate correctly and it shows Wrong!
+  ![Instructions](https://github.com/Fairooz14/Project_Sudoku/assets/102751153/9609ade3-73e0-447a-b806-4094134a9c61)
 - There is no level of this game. Players must play that one game.
 - Though it has a visualizing function. The time of visualization of this game cannot be controlled by the player.
 - There is a time limitation to solve the puzzle.
+   ![Timer_limit](https://github.com/Fairooz14/Project_Sudoku/assets/102751153/435802bf-a010-4c39-94b7-72e5dc2c5cef)
 
 
 
