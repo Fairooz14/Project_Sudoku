@@ -14,6 +14,15 @@ Validation check:
 ![carbon](https://github.com/Fairooz14/Project_Sudoku/assets/102751153/b78fd4b1-6b8a-4006-9445-46e737f067c9)
 
 Backtracking:
+![carbon (1)](https://github.com/Fairooz14/Project_Sudoku/assets/102751153/dbd96341-17b1-4584-87d3-9f51944ce486)
+
+# Limitations
+There are some limitations to this project. As it is only One Sudoku game, it has some instructed limitations.
+
+- The Filled numbers of the game can be changed. If it changes by the player then the solution will not generate correctly and it shows Wrong!
+- There is no level of this game. Players must play that one game.
+- Though it has a visualizing function. The time of visualization of this game cannot be controlled by the player.
+- There is a time limitation to solve the puzzle.
 
 
 
