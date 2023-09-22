@@ -10,4 +10,10 @@ This a simple Sudoku game project using pygame module of Python.
 - The number must only occur in a row once.
 - The number must occur in a sub-grid only once.
 # Algorithm 
+Validation check:
+![carbon](https://github.com/Fairooz14/Project_Sudoku/assets/102751153/b78fd4b1-6b8a-4006-9445-46e737f067c9)
+
+Backtracking:
+
+
 
