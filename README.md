@@ -23,7 +23,7 @@ There are some limitations to this project. As it is only One Sudoku game, it ha
   ![Wong](https://github.com/Fairooz14/Project_Sudoku/assets/102751153/17f0afa4-2dc4-4a48-ba73-3753b6843bc5)
 - There is no level of this game. Players must play that one game.
 - Though it has a visualizing function. The time of visualization of this game cannot be controlled by the player.
-- There is a time limitation to solve the puzzle.
+- There is a time limitation to solve the puzzle.<br>
   ![Timer_limit](https://github.com/Fairooz14/Project_Sudoku/assets/102751153/435802bf-a010-4c39-94b7-72e5dc2c5cef)
 
 
