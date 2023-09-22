@@ -4,7 +4,7 @@ This a simple Sudoku game project using Pygame module of Python.
 ![Banner](https://github.com/Fairooz14/Project_Sudoku/assets/102751153/1bceb104-e10d-4713-bf95-29828ea43b34)
 
 # Rules of the game 
-- Every single square has 9 possibilities. 9x9 = 81 squares with 9 possibilities. The different possible combination of the solution is 9^81.
+- Every single square has 9 possibilities. 9x9 = 81 squares with 9 possibilities. The different possible combination of the solution is 9<sup>81.
 - When starting the Sudoku puzzle, a player will be provided with random numbers in random cells. The objective is to fill the empty cells with only one number from 1 to 9 in the given time.
 - The number must only occur in a column once.
 - The number must only occur in a row once.
