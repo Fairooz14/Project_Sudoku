@@ -1,5 +1,5 @@
 # Project_Sudoku
-This a simple Sudoku game project using Pygame module of Python.
+This a simple Sudoku game project using the Pygame module of Python.
 
 ![Banner](https://github.com/Fairooz14/Project_Sudoku/assets/102751153/1bceb104-e10d-4713-bf95-29828ea43b34)
 
@@ -17,7 +17,7 @@ Backtracking:
 ![carbon (1)](https://github.com/Fairooz14/Project_Sudoku/assets/102751153/dbd96341-17b1-4584-87d3-9f51944ce486)
 
 # Limitations
-There are some limitations to this project. As it is only One Sudoku game, it has some instructed limitations.
+There are some limitations to this project.
 
 - The Filled numbers of the game can be changed. If it changes by the player then the solution will not generate correctly and it shows Wrong!
   ![Wong](https://github.com/Fairooz14/Project_Sudoku/assets/102751153/17f0afa4-2dc4-4a48-ba73-3753b6843bc5)
@@ -25,6 +25,8 @@ There are some limitations to this project. As it is only One Sudoku game, it ha
 - Though it has a visualizing function. The time of visualization of this game cannot be controlled by the player.
 - There is a time limitation to solve the puzzle.<br>
   ![Timer_limit](https://github.com/Fairooz14/Project_Sudoku/assets/102751153/435802bf-a010-4c39-94b7-72e5dc2c5cef)
+  
+P.S: The Color Palette of the code does not match with the color variable name :|
 
 
 
